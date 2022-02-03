@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://techmesh.tech/](https://techmesh.tech/)
 
-### Blogs posts
+### Latest From Blog
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
