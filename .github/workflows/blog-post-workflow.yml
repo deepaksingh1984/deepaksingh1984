@@ -12,4 +12,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/techmesh,https://techmesh.tech/feed/"
+                feed_list: "https://dev.to/feed/techmesh"
