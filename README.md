@@ -4,7 +4,7 @@
 <p align="left"></p>
 
 
-- 📝 I regularly write articles on [https://techmesh.tech/](https://techmesh.tech/)
+- 📝 I regularly write blog on [https://techmesh.tech/](https://techmesh.tech/)
 
 ### Latest From Blog
 <!-- BLOG-POST-LIST:START -->
