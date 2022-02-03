@@ -1,10 +1,8 @@
 [![ProfileBanner](https://github.com/deepaksingh1984/deepaksingh1984/blob/main/deepak-singh-banner-new.jpg)](https://techmesh.tech/)
-<h1 align="center">Namste 🙏, I'm Deepak Singh</h1>
+<h1 align="center">Namste 🙏, this is Deepak Singh</h1>
 <h3 align="center">A technology evangelist.</h3>
+<p align="left"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksingh1984&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksingh1984" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepaksingh1984" alt="deepaksingh1984" /></a> </p>
 
 - 📝 I regularly write articles on [https://techmesh.tech/](https://techmesh.tech/)
 
@@ -75,8 +73,6 @@ Languages and Tools🛠:
 </details>
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksingh1984&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="deepaksingh1984" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksingh1984&show_icons=true&theme=tokyonight&line_height=27&locale=en" alt="deepaksingh1984" /></p>
-
+<br/>
+<h3>Just working..</h3>
+<a href="https://github.com/deepaksingh1984/"><img align="center" src="https://github.com/deepaksingh1984/deepaksingh1984/blob/main/github-contribution-grid-snake.gif" alt="Deepak Singh"/></a>
