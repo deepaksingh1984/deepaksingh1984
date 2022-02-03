@@ -8,7 +8,8 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
+            - name: Pull in dev.to and my blog posts
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://techmesh.tech/feed/"
+                feed_list: "https://dev.to/feed/techmesh,https://techmesh.tech/feed/"
