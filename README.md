@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepak Singh</h1>
+[![ProfileBanner](https://github.com/deepaksingh1984/deepaksingh1984/blob/main/deepak-singh-banner-new.jpg)](https://techmesh.tech/)
+<h1 align="center">Namste 🙏, I'm Deepak Singh</h1>
 <h3 align="center">A technology evangelist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksingh1984&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksingh1984" /> </p>
