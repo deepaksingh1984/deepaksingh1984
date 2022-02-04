@@ -5,7 +5,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Blog posts updated
+    name: Techmesh blog posts updated
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
