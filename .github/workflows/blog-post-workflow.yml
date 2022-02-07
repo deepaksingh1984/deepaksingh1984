@@ -1,20 +1,19 @@
-name: Update this repo's README
-
+name: Latest posts workflow
 on:
-  schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-  push:
-    branches:
-      - main
-
+ schedule:
+   - cron: '0 * * * *' 
+ workflow_dispatch: 
 jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: deepaksingh1984/deepaksingh1984@v1
-        with:
-          feed-url: https://techmesh.tech/feed/
-          readme-section: blog
-          branch: main
+ update-readme-with-blog:
+   name: Update this repo's README with latest blog posts
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         # Replace this URL with your rss feed URL/s
+         feed_list: "https://techmesh.tech/feed/"
+         max_post_count: 4
+         template: "- `$date` | [$title]($url)  $newline"
+         date_format: yyyy-mm-dd
+         tag_post_pre_newline: true
