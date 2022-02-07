@@ -6,9 +6,9 @@
 
 - 📝 I regularly write blog on [https://techmesh.tech/](https://techmesh.tech/)
 
-### Latest From Blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📙 Latest From My Blog
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 <br/>
 
