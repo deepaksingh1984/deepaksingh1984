@@ -13,7 +13,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: deepaksingh1984/deepaksingh1984@v1
         with:
           feed-url: https://techmesh.tech/feed/
           readme-section: blog
