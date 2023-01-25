@@ -8,7 +8,7 @@
 
 ### 📙 Latest From My Blog
 <!--START_SECTION:feed-->
->> [https://techmesh.in/metaverse/metaverse-the-next-big-thing-in-iternet/](Metaverse The Next Big Thing In Internet)
+[https://techmesh.in/metaverse/metaverse-the-next-big-thing-in-iternet/](Metaverse The Next Big Thing In Internet)
 
 <!--END_SECTION:feed-->
 
