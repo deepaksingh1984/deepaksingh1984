@@ -4,7 +4,7 @@
 <p align="left"></p>
 
 
-- 📝 I regularly write blog on [https://techmesh.tech/](https://techmesh.tech/)
+- 📝 I regularly write blog on [https://techmesh.in/](https://techmesh.in/)
 
 ### 📙 Latest From My Blog
 <!--START_SECTION:feed-->
