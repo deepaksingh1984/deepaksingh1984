@@ -8,36 +8,6 @@
 
 ### 📙 Latest From My Blog
 <!--START_SECTION:feed-->
-name: Blog posts on ReadMe
-on:
-  schedule:
-    # Runs every day at 9am UTC
-    - cron: '0 4 * * *'
-
-jobs:
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
-        with:
-          feed_url: https://techmesh.in/feed/
-          count: 10
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'deepaksingh1984'
-            git config --global user.email 'prodeep2006@gmail.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README" 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{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}}
-
 <!--END_SECTION:feed-->
 
 <br/>
