@@ -1,5 +1,5 @@
-[![ProfileBanner](https://github.com/deepaksingh1984/deepaksingh1984/blob/main/deepak-singh-banner-new.jpg)](https://techmesh.tech/)
-<h1 align="center">Namste 🙏, this is Deepak Singh</h1>
+[![ProfileBanner](https://github.com/deepaksingh1984/deepaksingh1984/blob/main/deepak-singh-banner-new.jpg)](https://techmesh.in/)
+<h1 align="center">Namaste 🙏, this is Deepak Singh</h1>
 <h3 align="center">A technology evangelist.</h3>
 <p align="left"></p>
 
